@@ -1,2 +1,2 @@
 # sistemas-o
-onono
+sistemas operativos
