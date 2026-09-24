@@ -1,2 +1,2 @@
 # sistemas-o
-sistemas operativos
+Repositorio para el curso de Sistemas Operativos
