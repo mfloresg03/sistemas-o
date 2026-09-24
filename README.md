@@ -2,7 +2,7 @@
 
 Repositorio correspondiente al curso de Sistemas Operativos.
 
-## Contenido del Curso
+Contenido del Curso
 
 * **Practica01**: Introducción a GNU/Linux
 * **Practica02**: Funcionamiento de un computador
