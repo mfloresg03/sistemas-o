@@ -1,0 +1,6 @@
+ORG 2000H;
+MOV AX, 10H;
+MOV Dx, 20H;
+ADD AX, DX;
+END
+<return>
